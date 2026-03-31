@@ -12,6 +12,7 @@ int main(int argc, char *argv[]) {
 	isum = inum1 + inum2;
 	icha = inum1 - inum2;
 	ixx = inum1 * inum2;
+	//% 연산자는 나머지 
 	//강제 형변환 
 	islash = (float)inum1 / inum2;
 	printf("%d + %d = %d\n", inum1, inum2, isum);
